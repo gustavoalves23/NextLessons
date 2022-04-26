@@ -1,10 +1,10 @@
-## Next Lessons
+# Next Lessons
 
-# This repository has as objective contain all my progression about Next.js.
+## This repository has as objective contain all my progression about Next.js.
 
-# All the lessons will use an base template that can be found [https://github.com/gustavoalves23/MyNextTemplate](Here).
+## All the lessons will use an base template that can be found [https://github.com/gustavoalves23/MyNextTemplate](Here).
 
-# What i already learned:
+## What i already learned:
 
 - Bootstraping an TypeScript Next.js Project with create-next-app
 - Setup personal eslint settings
