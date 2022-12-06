@@ -1,0 +1,12 @@
+{
+  "extends": ["eslint:recommended","next/core-web-vitals", "next","plugin:@typescript-eslint/recommended","airbnb", "airbnb-typescript", "airbnb/hooks", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "project": ["./tsconfig.json"]
+  },
+  "rules": {
+    "react/jsx-props-no-spreading": "off",
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "warn",
+    "semi": [2, "always"]
+  }
+}
